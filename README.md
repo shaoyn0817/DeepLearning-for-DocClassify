@@ -1,1 +1,1 @@
-# Hierarchical-Attention-Networks
+# Attention model for document classification
